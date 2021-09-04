@@ -16,7 +16,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [View solution](https://www.frontendmentor.io/solutions/responsive-order-summary-component-html-and-sass-8Ys_3ucoG)
-- Live Site: [live site](https://brendamichellle.github.io/order-summary-omponent-main/)
+- Live Site: [live site](https://brendamichellle.github.io/order-summary-component-main/)
 
 ## My process
 
